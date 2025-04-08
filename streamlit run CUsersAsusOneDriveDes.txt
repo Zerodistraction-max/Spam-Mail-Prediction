@@ -1,0 +1,2 @@
+streamlit run "C:\Users\Asus\OneDrive\Desktop\PYPROJECT_Anaconda\Spam mail prediction project\spam mail web app.py"
+https://colab.research.google.com/drive/1l4rpzf0jMm6Cg7dMC5ZGY3Nbsay_uDN1?usp=sharing
